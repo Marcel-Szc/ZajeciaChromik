@@ -1,0 +1,7 @@
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\obj\Debug\AplikacjaNr1.csproj.AssemblyReference.cache
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\obj\Debug\AplikacjaNr1.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\bin\Debug\AplikacjaNr1.exe.config
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\bin\Debug\AplikacjaNr1.exe
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\bin\Debug\AplikacjaNr1.pdb
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\obj\Debug\AplikacjaNr1.exe
+C:\Users\Programista\Documents\Lester\12.09.2024\AplikacjaNr1\AplikacjaNr1\obj\Debug\AplikacjaNr1.pdb
