@@ -1,0 +1,7 @@
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\obj\Debug\10.10.2024v1.csproj.AssemblyReference.cache
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\obj\Debug\10.10.2024v1.csproj.CoreCompileInputs.cache
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\bin\Debug\10.10.2024v1.exe.config
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\bin\Debug\10.10.2024v1.exe
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\bin\Debug\10.10.2024v1.pdb
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\obj\Debug\10.10.2024v1.exe
+C:\Users\Programista\source\repos\10.10.2024v1\10.10.2024v1\obj\Debug\10.10.2024v1.pdb
