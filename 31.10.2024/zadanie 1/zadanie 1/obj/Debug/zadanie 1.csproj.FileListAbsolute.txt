@@ -1,0 +1,7 @@
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\bin\Debug\zadanie 1.exe.config
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\bin\Debug\zadanie 1.exe
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\bin\Debug\zadanie 1.pdb
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\obj\Debug\zadanie 1.csproj.AssemblyReference.cache
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\obj\Debug\zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\obj\Debug\zadanie 1.exe
+C:\Users\Programista\Documents\Lester\31.10.2024\zadanie 1\zadanie 1\obj\Debug\zadanie 1.pdb
