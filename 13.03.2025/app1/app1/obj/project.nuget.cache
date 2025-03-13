@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9YSQ+APql88=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1CT\\Documents\\Lest\\app1\\app1\\app1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1CT\\.nuget\\packages\\livecharts.winforms.netcore3\\0.9.8\\livecharts.winforms.netcore3.0.9.8.nupkg.sha512",
+    "C:\\Users\\1CT\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
