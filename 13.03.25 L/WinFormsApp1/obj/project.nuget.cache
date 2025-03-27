@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnk8S7AY4zA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1CT\\Documents\\chromik\\13.03.25\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1CT\\.nuget\\packages\\livecharts.winforms.netcore3\\0.9.8\\livecharts.winforms.netcore3.0.9.8.nupkg.sha512",
+    "C:\\Users\\1CT\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
