@@ -1,0 +1,14 @@
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\bin\Debug\net8.0\Delegaty cz.3.exe
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\bin\Debug\net8.0\Delegaty cz.3.deps.json
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\bin\Debug\net8.0\Delegaty cz.3.runtimeconfig.json
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\bin\Debug\net8.0\Delegaty cz.3.dll
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\bin\Debug\net8.0\Delegaty cz.3.pdb
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.AssemblyInfoInputs.cache
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.AssemblyInfo.cs
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.csproj.CoreCompileInputs.cache
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.dll
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\refint\Delegaty cz.3.dll
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.pdb
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\Delegaty cz.3.genruntimeconfig.cache
+C:\Users\Informatyka\Documents\Dorix248\20.03.2025-delegaty cz.3\Delegaty cz.3\Delegaty cz.3\obj\Debug\net8.0\ref\Delegaty cz.3.dll
