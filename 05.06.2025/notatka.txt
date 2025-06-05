@@ -1,0 +1,56 @@
+lekcja
+
+temat: blablabla blebleble blublublu sala malekum malekum sala salsa y pikante erojueno wasaaaaaap
+
+class program{
+
+	static void Main(string[] args){
+
+	int x = 100; //ref- gdy chcesz przekazac i modyfikowac wartosc
+
+	int y; //w przypadku out nie trzeba y = 100; out-gdy chcesz zwrocic dodatkowa wartosc z metody
+
+	int z = 200; //in- gdy chcesz przekazac duzy typ wartosciowy np(struct), in jest dla zainicjowania
+
+	PrzekazRef(ref x);
+
+	PrzekazOut (out y);
+
+	PrzekazIn (in z);
+
+	Console.WriteLine($"x: {x}");
+
+	Console WriteLine($"y: {y}");
+
+	Console WriteLine($"z: {z}");
+
+	}
+
+	static void PrzekazRef(ref int x){
+
+	x++;
+
+	Console. WriteLine(x);
+	}
+	//reference
+
+	static void PrzekazOut(out int y){
+
+	//x++;
+
+	y = 100;
+
+	y++;
+
+	Console. WriteLine(y);
+	}
+	
+	static void PrzekazIn(in int z){
+
+	//z = 100;
+
+	Console. WriteLine(z);
+
+	}
+
+}
